@@ -1,7 +1,7 @@
-# Natural-Language-Processing
+## ** Natural-Language-Processing**
 This repository is aimed towards building the foundations of Natural Language Processing.
 
-In this repository the below topics have been covered:
+**In this repository the below topics have been covered:**
 
 a. Working with regular expressions: Regular expressions are nothing but a set of characters or patterns which is used to find substrings in a given string. Learning regular expressions basically means learning how to identify and define these patterns.    
    i. Covered basics of regular expressions 
